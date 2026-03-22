@@ -6,6 +6,7 @@ Group SE-2513
 Part 1 – Recursion with Numbers
 Task 1 – Print Digits
 Recursive function prints each digit of a number on a separate line.
+
 Task 2 – Average of Elements
 Recursive function calculates the sum of elements and finds the average.
 Task 3 – Prime Number Check
